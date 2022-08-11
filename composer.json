@@ -1,0 +1,15 @@
+{
+    "name": "hexlet/code",
+    "authors": [
+        {
+            "name": "Alexey Zakharov",
+            "email": "zakharov.alex.g@gmail.com"
+        }
+    ],
+    "bin": [
+        "/bin/gendiff"
+    ],
+    "require": {
+        "docopt/docopt": "^1.0"
+    }
+}
